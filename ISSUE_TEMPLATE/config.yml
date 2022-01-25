@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: chtnnh foundation Community Support
+    url: https://chtnnhfoundation.org/community/
+    about: Please ask and answer questions here.
+  - name: chtnnh foundation Security Bug Bounty
+    url: mailto:engineering@chtnnhfoundation.org
+    about: Please report security vulnerabilities here.
